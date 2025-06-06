@@ -1,0 +1,508 @@
+{
+  "@@locale": "ml",
+  "copyright_notice": "പകർപ്പവകാശം © {company}, എല്ലാ അവകാശങ്ങളും സംരക്ഷിതം.",
+  "@copyright_notice": {
+    "placeholders": {
+      "company": {}
+    }
+  },
+  "welcomeTitle": "ആപ്പിലേക്ക് സ്വാഗതം",
+  "today": "ഇന്ന്",
+  "yesterday": "ഇന്നലെ",
+  "settings": "ക്രമീകരണങ്ങൾ",
+  "about": "കുറിച്ച്",
+  "profileInfo": "പ്രൊഫൈൽ വിവരങ്ങൾ",
+  "language": "ഭാഷ",
+  "firstName": "പേര്",
+  "lastName": "കുടുംബനാമം",
+  "mobileNumber": "മൊബൈൽ നമ്പർ",
+  "edit": "എഡിറ്റ് ചെയ്യുക",
+  "enterCode": "കോഡ് നൽകുക",
+  "editProfile": "പ്രൊഫൈൽ എഡിറ്റ് ചെയ്യുക",
+  "bankTransfer": "ബാങ്ക് ട്രാൻസ്ഫർ",
+  "gift": "സമ്മാനം",
+  "correction": "തിരുത്തൽ",
+  "inappPayment": "ആപ്പ് പേയ്മെന്റ്",
+  "orderFee": "ഓർഡർ ഫീസ്",
+  "parkingFee": "പാർക്കിങ് ഫീസ്",
+  "cancellationFee": "റദ്ദാക്കൽ ഫീസ്",
+  "withdraw": "പിൻവലിക്കുക",
+  "walletTransactions": "വാലറ്റ് ഇടപാടുകൾ",
+  "addCard": "കാർഡ് ചേർക്കുക",
+  "visa": "വിസ",
+  "mastercard": "മാസ്റ്റർകാർഡ്",
+  "addBalance": "ബാലൻസ് ചേർക്കുക",
+  "durationInMinutes": "{minutes, plural, =0{പൂജ്യം മിനിറ്റ്} =1{{minutes} മിനിറ്റ്} other{{minutes} മിനിറ്റുകൾ}}",
+  "@durationInMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "durationInHours": "സമയം: {hours, plural, =0{പൂജ്യം മണിക്കൂർ} =1{{hours} മണിക്കൂർ} other{{hours} മണിക്കൂറുകൾ}}",
+  "@durationInHours": {
+    "placeholders": {
+      "hours": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "timePastDue": "സമയം കഴിഞ്ഞു",
+  "justNow": "ഇപ്പോൾ തന്നെ",
+  "distanceInMeters": "{distance} മീ",
+  "@distanceInMeters": {
+    "placeholders": {
+      "distance": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "distanceInKilometers": "{distance} കിമീ",
+  "@distanceInKilometers": {
+    "placeholders": {
+      "distance": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "distanceInFeets": "{distance} അടി",
+  "@distanceInFeets": {
+    "placeholders": {
+      "distance": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "distanceInMiles": "{distance} മൈൽ",
+  "@distanceInMiles": {
+    "placeholders": {
+      "distance": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "welcomeSubtitle": "നിങ്ങളുടെ സുഖസൗകര്യത്തിനായി രൂപകൽപ്പന ചെയ്ത ടാക്സി സേവനം, നിങ്ങളുടെ പ്രിയപ്പെട്ട ഡ്രൈവർമാരുമായി യാത്ര ചെയ്യുകയും യാത്രാ മുൻഗണനകൾ തിരഞ്ഞെടുക്കുകയും ചെയ്യുക",
+  "onboardingRewardTitle": "പ്രതിഫലം നേടുക!",
+  "onboardingRewardSubtitle": "സുഹൃത്തുക്കളെ പരിചയപ്പെടുത്തുന്നതിനും യാത്രകൾ പൂർത്തിയാക്കുന്നതിനും മറ്റ് പലതിനും അധിക ബോണസുകൾ നേടുക...",
+  "selectLanguage": "ഭാഷ തിരഞ്ഞെടുക്കുക",
+  "searchForLanguage": "ഭാഷ തിരയുക",
+  "enterPhoneNumber": "ഫോൺ നമ്പർ നൽകുക",
+  "actionContinue": "തുടരുക",
+  "whereIsYourDestination": "നിങ്ങളുടെ ലക്ഷ്യസ്ഥാനം എവിടെയാണ്?",
+  "whereAreYouGoing": "നിങ്ങൾ എവിടേക്കാണ് പോകുന്നത്?",
+  "selectDestinations": "നിങ്ങളുടെ റൂട്ട്",
+  "pickupPoint": "പിക്ക്-അപ്പ് പോയിന്റ്",
+  "enterPickupPoint": "പിക്ക്-അപ്പ് പോയിന്റ് നൽകുക",
+  "dropoffPoint": "ഡ്രോപ്പ്-ഓഫ് പോയിന്റ്",
+  "enterDropoffPoint": "ഡ്രോപ്പ്-ഓഫ് പോയിന്റ് നൽകുക",
+  "stopPoint": "സ്റ്റോപ്പ് പോയിന്റ്",
+  "enterStopPoint": "സ്റ്റോപ്പ് പോയിന്റ് നൽകുക",
+  "confirm": "സ്ഥിരീകരിക്കുക",
+  "confirmDropoff": "ഡ്രോപ്പ്-ഓഫ് സ്ഥിരീകരിക്കുക",
+  "confirmPickup": "പിക്ക്-അപ്പ് സ്ഥിരീകരിക്കുക",
+  "enterAtLeast3Characters": "കുറഞ്ഞത് 3 അക്ഷരങ്ങൾ നൽകുക",
+  "noResults": "ഫലങ്ങളൊന്നുമില്ല",
+  "bookNow": "ഇപ്പോൾ ബുക്ക് ചെയ്യുക",
+  "cash": "പണം",
+  "online": "ഓൺലൈൻ",
+  "offline": "ഓഫ്‌ലൈൻ",
+  "onTrip": "യാത്രയിൽ",
+  "confirmPay": "സ്ഥിരീകരിച്ച് പേയ് ചെയ്യുക",
+  "cancel": "റദ്ദാക്കുക",
+  "apply": "അപ്ലൈ ചെയ്യുക",
+  "enterCouponCode": "കൂപ്പൺ കോഡ് നൽകുക",
+  "reserveRide": "യാത്ര റിസർവ് ചെയ്യുക",
+  "reserveRideMessage": "നിങ്ങളുടെ യാത്ര റിസർവ് ചെയ്യേണ്ട കൃത്യമായ തീയതിയും സമയയും തിരഞ്ഞെടുക്കുക",
+  "reserveRideMessageSuccess": "നിങ്ങളുടെ യാത്ര വിജയകരമായി റിസർവ് ചെയ്തു. നിങ്ങൾക്ക് 'ഷെഡ്യൂൾ ചെയ്ത യാത്രകൾ' വിഭാഗത്തിൽ റിസർവ് ചെയ്ത യാത്രകൾ കാണാം.",
+  "cancelReservation": "റിസർവേഷൻ റദ്ദാക്കുക",
+  "confirmResrve": "സ്ഥിരീകരിച്ച് റിസർവ് ചെയ്യുക",
+  "enterCouponDescription": "വിലകളിൽ പ്രയോഗിക്കാൻ നിങ്ങളുടെ കൂപ്പൺ കോഡ് ചേർക്കുക",
+  "enterCoupon": "കൂപ്പൺ നൽകുക",
+  "couponApplied": "കൂപ്പൺ പ്രയോഗിച്ചു",
+  "couponAppliedDescription": "നിങ്ങളുടെ യാത്രാ നിരക്കിൽ കൂപ്പൺ പ്രയോഗിച്ചിരിക്കുന്നു",
+  "done": "പൂർത്തിയായി!",
+  "ridePreferences": "യാത്രാ മുൻഗണനകൾ",
+  "noWaitTime": "കാത്തിരിപ്പ് സമയമില്ല",
+  "minutesRange": "{minutes} മിനിറ്റുകൾ",
+  "@minutesRange": {
+    "placeholders": {
+      "minutes": {
+        "type": "String"
+      }
+    }
+  },
+  "secondsRange": "{seconds} സെക്കൻഡുകൾ",
+  "@secondsRange": {
+    "placeholders": {
+      "seconds": {
+        "type": "String"
+      }
+    }
+  },
+  "rideRequested": "യാത്ര അഭ്യർത്ഥിച്ചു",
+  "searchingForAnOnlineDriver": "ഓൺലൈൻ ഡ്രൈവറെ തിരയുന്നു...",
+  "cancelRide": "യാത്ര റദ്ദാക്കുക",
+  "rideSafety": "യാത്രാ സുരക്ഷ",
+  "shareTripInformation": "യാത്രാ വിവരങ്ങൾ പങ്കിടുക",
+  "shareTripInformationDescription": "നിങ്ങൾക്ക് സുഹൃത്തുമായി യാത്രാ വിവരങ്ങൾ പങ്കിടാം",
+  "sos": "SOS",
+  "sosDescription": "അടിയന്തിര സാഹചര്യത്തിൽ അധികാരികളെ അറിയിക്കുക",
+  "reportAnIssue": "പ്രശ്നം റിപ്പോർട്ട് ചെയ്യുക",
+  "reportAnIssueMidTripDescription": "യാത്രാമധ്യേ സുരക്ഷാ പ്രശ്നം പങ്കിടുക",
+  "rideOptions": "യാത്രാ ഓപ്ഷനുകൾ",
+  "goBackToRide": "യാത്രയിലേക്ക് തിരികെ പോകുക",
+  "waitTime": "കാത്തിരിപ്പ് സമയം",
+  "couponCode": "കൂപ്പൺ കോഡ്",
+  "giftCardCode": "ഗിഫ്റ്റ് കാർഡ് കോഡ്",
+  "nicePoints": "നല്ല പോയിന്റുകൾ",
+  "negativePoints": "നെഗറ്റീവ് പോയിന്റുകൾ",
+  "reviewCommentBoxHint": "ഒരു കമന്റ് ചേർക്കുക...",
+  "howWasYourTrip": "നിങ്ങളുടെ യാത്ര എങ്ങനെയായിരുന്നു?",
+  "oneStarReviewTitle": "{name} മായുള്ള ഭയാനകമായ യാത്ര",
+  "@oneStarReviewTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "twoStarReviewTitle": "{name} മായുള്ള മോശം യാത്ര",
+  "@twoStarReviewTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "threeStarReviewTitle": "{name} മായുള്ള സാധാരണ യാത്ര",
+  "@threeStarReviewTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "fourStarReviewTitle": "{name} മായുള്ള നല്ല യാത്ര",
+  "@fourStarReviewTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "fiveStarReviewTitle": "{name} മായുള്ള മികച്ച യാത്ര",
+  "@fiveStarReviewTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "submitFeedback": "ഫീഡ്ബാക്ക് സമർപ്പിക്കുക",
+  "typeAMessage": "ഒരു സന്ദേശം ടൈപ്പ് ചെയ്യുക",
+  "findAnotherRide": "മറ്റൊരു യാത്ര കണ്ടെത്തുക",
+  "next": "അടുത്തത്",
+  "searchForDropoffLocation": "ഡ്രോപ്പ്-ഓഫ് ലൊക്കേഷൻ തിരയുക",
+  "searchForPickupLocation": "പിക്ക്-അപ്പ് ലൊക്കേഷൻ തിരയുക",
+  "placeConfirmDialogPlaceholder": "നിങ്ങളുടെ ഡ്രോപ്പ് ഓഫ് ലൊക്കേഷൻ എവിടെയാണ്?",
+  "noAnnouncements": "പ്രഖ്യാപനങ്ങളൊന്നുമില്ല",
+  "announcements": "പ്രഖ്യാപനങ്ങൾ",
+  "reviewsCount": "({count} അവലോകനങ്ങൾ)",
+  "@reviewsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "tripDetails": "യാത്രാ വിവരങ്ങൾ",
+  "rideDetails": "യാത്രാ വിവരങ്ങൾ",
+  "orderARide": "ഒരു യാത്ര ഓർഡർ ചെയ്യുക",
+  "noRidesYet": "ഇതുവരെ യാത്രകളൊന്നുമില്ല!",
+  "issueSubjectPlaceholder": "പ്രശ്നത്തിന്റെ വിഷയം ടൈപ്പ് ചെയ്യുക",
+  "issueContentPlaceholder": "പ്രശ്നത്തിന്റെ വിവരണം ടൈപ്പ് ചെയ്യുക",
+  "reportThisIssue": "ഈ പ്രശ്നം റിപ്പോർട്ട് ചെയ്യുക",
+  "fieldIsRequired": "ഫീൽഡ് ആവശ്യമാണ്",
+  "ok": "ശരി",
+  "favoriteLocations": "പ്രിയപ്പെട്ട സ്ഥലങ്ങൾ",
+  "favoriteLocationsSubtitle": "എളുപ്പത്തിൽ ആക്സസ് ചെയ്യാൻ നിങ്ങളുടെ പ്രിയപ്പെട്ട സ്ഥലങ്ങൾ സേവ് ചെയ്യുക",
+  "createAFavoriteLocation": "ഒരു പ്രിയപ്പെട്ട സ്ഥലം സൃഷ്ടിക്കുക",
+  "addressTitleLabel": "വിലാസത്തിന്റെ ശീർഷകം",
+  "clickToSetLocation": "ലൊക്കേഷൻ സെറ്റ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക",
+  "whereIsYourNewFavoriteLocation": "നിങ്ങളുടെ പുതിയ പ്രിയപ്പെട്ട സ്ഥലം എവിടെയാണ്?",
+  "locateFavoriteLocationDescription": "കൃത്യമായ സ്ഥലം പിൻ ചെയ്യാൻ താഴെയുള്ള സെർച്ച് ബോക്‌സ് അല്ലെങ്കിൽ മാപ്പ് ഉപയോഗിക്കുക",
+  "searchLocation": "സ്ഥലം തിരയുക",
+  "saveChanges": "മാറ്റങ്ങൾ സേവ് ചെയ്യുക",
+  "rideHistory": "യാത്രാ ചരിത്രം",
+  "scheduledRides": "ഷെഡ്യൂൾ ചെയ്ത യാത്രകൾ",
+  "keepTheOrder": "ഓർഡർ നിലനിർത്തുക",
+  "cancelTheRide": "യാത്ര റദ്ദാക്കുക",
+  "walletBalance": "വാലറ്റ് ബാലൻസ്",
+  "activities": "പ്രവർത്തനങ്ങൾ",
+  "pleaseEnterGiftCardCode": "ദയവായി ഗിഫ്റ്റ് കാർഡ് കോഡ് നൽകുക",
+  "redeem": "റിഡീം ചെയ്യുക",
+  "enterGiftCardCode": "ഗിഫ്റ്റ് കാർഡ് കോഡ് നൽകുക",
+  "redeemGiftCard": "ഗിഫ്റ്റ് കാർഡ് റിഡീം ചെയ്യുക",
+  "redeemGiftCardDescription": "അത് റിഡീം ചെയ്യാൻ നിങ്ങളുടെ ഗിഫ്റ്റ് കാർഡ് കോഡ് നൽകുക.",
+  "redeemSuccessTitle": "ഗിഫ്റ്റ് കാർഡ് റിഡീം ചെയ്തു!",
+  "redeemSuccessDescription": "നിങ്ങൾ {amount} ഗിഫ്റ്റ് കാർഡ് വിജയകരമായി റിഡീം ചെയ്തു.",
+  "@redeemSuccessDescription": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "addCredit": "ക്രെഡിറ്റ് ചേർക്കുക",
+  "payNow": "ഇപ്പോൾ പേയ് ചെയ്യുക",
+  "addCreditToWallet": "വാലറ്റിലേക്ക് ക്രെഡിറ്റ് ചേർക്കുക",
+  "pleaseSelectAmount": "ദയവായി തുക തിരഞ്ഞെടുക്കുക",
+  "enterAmount": "തുക നൽകുക",
+  "selectAmount": "തുക തിരഞ്ഞെടുക്കുക:",
+  "wallet": "വാലറ്റ്",
+  "totalRides": "മൊത്തം യാത്രകൾ",
+  "appSettings": "ആപ്പ് ക്രമീകരണങ്ങൾ",
+  "mapSettings": "മാപ്പ് ക്രമീകരണങ്ങൾ",
+  "lanugageSettings": "ഭാഷാ ക്രമീകരണങ്ങൾ",
+  "paymentMethods": "പേയ്മെന്റ് രീതികൾ",
+  "selectCards": "കാർഡുകൾ തിരഞ്ഞെടുക്കുക",
+  "selectCardsDescription": "ഇൻവോയ്സുകളിലെ പേയ്മെന്റ് രീതികളുടെ ലിസ്റ്റിൽ പ്രദർശിപ്പിക്കാൻ ആഗ്രഹിക്കുന്ന കാർഡ് നമ്പറുകൾ നിങ്ങൾക്ക് തിരഞ്ഞെടുക്കാം.",
+  "delete": "ഇല്ലാതാക്കുക",
+  "nameOnCard": "കാർഡിലെ പേര്",
+  "profile": "പ്രൊഫൈൽ",
+  "scheduledRide": "ഷെഡ്യൂൾ ചെയ്ത യാത്ര",
+  "addPaymentMethod": "പേയ്മെന്റ് രീതി ചേർക്കുക",
+  "addPaymentMethodDescription": "നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക് ഒരു പുതിയ പേയ്മെന്റ് രീതി ചേർക്കുക",
+  "saveCard": "കാർഡ് സേവ് ചെയ്യുക",
+  "selectDialCode": "ഡയൽ കോഡ് തിരഞ്ഞെടുക്കുക",
+  "searchCountryName": "രാജ്യത്തിന്റെ പേര് തിരയുക",
+  "preferences": "മുൻഗണനകൾ:",
+  "onboardingDescription": "നിങ്ങളുടെ അക്കൗണ്ട് രജിസ്റ്റർ ചെയ്യുകയും സുഖകരമായ യാത്രകൾ ആസ്വദിക്കുകയും ചെയ്യാൻ നിമിഷങ്ങൾ മാത്രം",
+  "signInSignUp": "സൈൻ ഇൻ / സൈൻ അപ്പ്",
+  "enterOtp": "OTP നൽകുക",
+  "enterPassword": "പാസ്‌വേഡ് നൽകുക",
+  "enterPasswordDescription": "തുടരാൻ ദയവായി നിങ്ങളുടെ പാസ്‌വേഡ് നൽകുക",
+  "setPassword": "പാസ്‌വേഡ് സെറ്റ് ചെയ്യുക",
+  "password": "പാസ്‌വേഡ്",
+  "passwordRuleDescription": "ഇവയിൽ കുറഞ്ഞത് രണ്ടെണ്ണം ഉൾപ്പെടുത്തുക:",
+  "passwordRuleLength": "9 നും 64 നും ഇടയിൽ അക്ഷരങ്ങൾ",
+  "passwordRuleUpperCase": "വലിയ അക്ഷരങ്ങൾ",
+  "passwordRuleLowerCase": "ചെറിയ അക്ഷരങ്ങൾ",
+  "passwordRuleNumber": "അക്കങ്ങൾ",
+  "passwordRuleSpecialCharacter": "പ്രത്യേക അക്ഷരങ്ങൾ",
+  "contactDetails": "ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ",
+  "vehicleDetails": "വാഹന വിവരങ്ങൾ",
+  "payoutInformation": "പേയ്ഔട്ട് വിവരങ്ങൾ",
+  "documents": "ഡോക്യുമെന്റുകൾ",
+  "accessDenied": "പ്രവേശനം നിഷേധിച്ചു",
+  "success": "വിജയം",
+  "skipForNow": "ഇപ്പോൾ ഒഴിവാക്കുക",
+  "sendOtpDescription": "നിങ്ങളുടെ ഫോൺ നമ്പറിലേക്ക് ഒരു സ്ഥിരീകരണ കോഡ് അയച്ചിരിക്കുന്നു",
+  "resendOtp": "കോഡ് വീണ്ടും അയയ്ക്കുക",
+  "useOtpInstead": "പകരം OTP ഉപയോഗിക്കുക",
+  "home": "വീട്",
+  "logout": "ലോഗൗട്ട്",
+  "driverLicenseNumber": "ഡ്രൈവിംഗ് ലൈസൻസ് നമ്പർ",
+  "email": "ഇ-മെയിൽ",
+  "address": "വിലാസം",
+  "gender": "ലിംഗം",
+  "genderMale": "പുരുഷൻ",
+  "genderFemale": "സ്ത്രീ",
+  "genderUnknown": "നിഷ്പക്ഷ / അജ്ഞാതം",
+  "vehiclePlateNumber": "വാഹന പ്ലേറ്റ് നമ്പർ",
+  "vehicleColor": "വാഹനത്തിന്റെ നിറം",
+  "vehicleModelAndMake": "വാഹന മോഡലും നിർമ്മാണവും",
+  "vehicleProductionYear": "വാഹന ഉത്പാദന വർഷം",
+  "bankName": "ബാങ്കിന്റെ പേര്",
+  "bankRoutingNumber": "ബാങ്ക് റൂട്ടിംഗ് നമ്പർ",
+  "bankAccountNumber": "ബാങ്ക് അക്കൗണ്ട് നമ്പർ",
+  "bankSwift": "SWIFT കോഡ്",
+  "uploadImage": "ചിത്രം അപ്‌ലോഡ് ചെയ്യുക",
+  "yourBalance": "നിങ്ങളുടെ ബാലൻസ്",
+  "rideCancellation": "യാത്ര റദ്ദാക്കൽ",
+  "cancelRideMessage": "നിങ്ങളുടെ യാത്ര റദ്ദാക്കാൻ നിങ്ങൾ ഉറപ്പാണോ?",
+  "cancelRideSuccess": "യാത്ര വിജയകരമായി റദ്ദാക്കി",
+  "confirmAndCancelRide": "സ്ഥിരീകരിച്ച് യാത്ര റദ്ദാക്കുക",
+  "selectPaymentMethod": "പേയ്മെന്റ് രീതി തിരഞ്ഞെടുക്കുക",
+  "rideFeePaid": "യാത്രാ ഫീസ് അടച്ചു",
+  "rideFeeUnpaid": "യാത്രാ ഫീസ് ഇതുവരെ അടച്ചിട്ടില്ല",
+  "total": "മൊത്തം",
+  "totalPrice": "മൊത്തം വില",
+  "addCustomCredit": "കസ്റ്റം ക്രെഡിറ്റ് ചേർക്കുക",
+  "serviceFee": "സർവ്വീസ് ഫീസ്",
+  "serviceOptionFee": "സർവ്വീസ് ഓപ്ഷൻ ഫീസ്",
+  "couponDiscount": "കൂപ്പൺ കിഴിവ്",
+  "walletCreit": "വാലറ്റ് ക്രെഡിറ്റ്",
+  "custom": "കസ്റ്റം",
+  "payment": "പേയ്മെന്റ്",
+  "cashPayment": "പണം പേയ്മെന്റ്",
+  "cashPaymentDescription": "നിങ്ങൾക്ക് {amount} ലഭിച്ചുവെന്ന് സ്ഥിരീകരിക്കുന്നുണ്ടോ?",
+  "@cashPaymentDescription": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "cashPaymentReceived": "പണം പേയ്മെന്റ് ലഭിച്ചു",
+  "confirmAndEndTrip": "സ്ഥിരീകരിച്ച് യാത്ര അവസാനിപ്പിക്കുക",
+  "earnings": "വരുമാനം",
+  "acceptOrder": "ഓർഡർ സ്വീകരിക്കുക",
+  "canceled": "റദ്ദാക്കി",
+  "unknown": "അജ്ഞാതം",
+  "commission": "കമ്മീഷൻ",
+  "selectProfileImage": "പ്രൊഫൈൽ ചിത്രം തിരഞ്ഞെടുക്കുക",
+  "chooseAvatarDescription": "അല്ലെങ്കിൽ താഴെയുള്ള ലിസ്റ്റിൽ നിന്ന് ഒരു അവതാർ തിരഞ്ഞെടുക്കുക:",
+  "fullName": "പൂർണ്ണ നാമം",
+  "favoriteDrivers": "പ്രിയപ്പെട്ട ഡ്രൈവർമാർ",
+  "distanceTraveled": "സഞ്ചരിച്ച ദൂരം",
+  "rating": "റേറ്റിംഗ്",
+  "map": "മാപ്പ്",
+  "income": "വരുമാനം",
+  "timeSpent": "ചെലവഴിച്ച സമയം",
+  "daily": "ദൈനിക",
+  "monthly": "മാസിക",
+  "noRecordsFoundEarnings": "ഈ ഫിൽട്ടറുകൾക്കായി യാത്രാ റെക്കോർഡ് കണ്ടെത്തിയില്ല",
+  "feedbacksSummaryEmptyStateHeading": "ഇതുവരെ ഫീഡ്ബാക്കുകളൊന്നുമില്ല",
+  "feedbacksSummaryEmptyStateTitle": "കാണിക്കാൻ നിങ്ങൾക്ക് ഇതുവരെ മതിയായ ഫീഡ്ബാക്കുകളില്ല.",
+  "feedbacksSummary": "ഫീഡ്ബാക്കുകളുടെ സംഗ്രഹം",
+  "feedbacksGoodTitle": "മികച്ച ജോലി!",
+  "feedbacksGoodSubtitle": "നിങ്ങളുടെ റേറ്റിംഗുകൾ ഇതുവരെ നല്ലതായി കാണപ്പെടുന്നു",
+  "feedbacksBadTitle": "ശരാശരി",
+  "feedbacksBadSubtitle": "നിങ്ങൾക്ക് ചില മെച്ചപ്പെടുത്തലുകൾ ഉപയോഗിക്കാം",
+  "feedbacksGoodPointsTitle": "നിങ്ങളെക്കുറിച്ചുള്ള ചില നല്ല കാര്യങ്ങൾ:",
+  "feedbacksbadPointsTitle": "നിങ്ങൾക്ക് മെച്ചപ്പെടുത്താവുന്ന ചില കാര്യങ്ങൾ:",
+  "feedbacksReviewsTitle": "ചില മുൻ അവലോകനങ്ങൾ",
+  "payoutMethods": "പേയ്ഔട്ട് രീതികൾ",
+  "notice": "അറിയിപ്പ്:",
+  "payoutNoticeTitle": "അഡ്മിൻ നിങ്ങൾക്ക് ആഴ്ചയിൽ രണ്ടുതവണ സ്വയമേവ പണം നൽകും.",
+  "addPayoutMethod": "പേയ്ഔട്ട് രീതി ചേർക്കുക",
+  "navigate": "നാവിഗേറ്റ് ചെയ്യുക",
+  "noPayoutMethods": "പേയ്ഔട്ട് രീതികളൊന്നുമില്ല",
+  "name": "പേര്",
+  "nameHint": "പേര് നൽകുക",
+  "bankNameHint": "ബാങ്കിന്റെ പേര് നൽകുക",
+  "branchName": "ബ്രാഞ്ചിന്റെ പേര്",
+  "branchNameHint": "ബ്രാഞ്ചിന്റെ പേര് നൽകുക",
+  "accountHolderName": "അക്കൗണ്ട് ഹോൾഡറുടെ പേര്",
+  "routingNumber": "റൂട്ടിംഗ് നമ്പർ",
+  "routingNumberHint": "റൂട്ടിംഗ് നമ്പർ നൽകുക",
+  "accountNumber": "അക്കൗണ്ട് നമ്പർ",
+  "accountNumberHint": "അക്കൗണ്ട് നമ്പർ നൽകുക",
+  "addressHint": "വിലാസം നൽകുക",
+  "dateOfBith": "ജനനത്തീയതി",
+  "yearHint": "വർഷം",
+  "monthHint": "മാസം",
+  "dayHint": "ദിവസം",
+  "city": "നഗരം",
+  "cityHint": "നഗരം നൽകുക",
+  "state": "സംസ്ഥാനം",
+  "stateHint": "സംസ്ഥാനം നൽകുക",
+  "zipCode": "പിൻ കോഡ്",
+  "zipCodeHint": "പിൻ കോഡ് നൽകുക",
+  "day": "ദിവസം",
+  "month": "മാസം",
+  "year": "വർഷം",
+  "noActivitiesYet": "ഇതുവരെ പ്രവർത്തനങ്ങളൊന്നുമില്ല.",
+  "headingToDestination": "ലക്ഷ്യസ്ഥാനത്തേക്ക് പോകുന്നു",
+  "driverArrivedNotice": "ഡ്രൈവർ നിങ്ങൾക്കായി കാത്തിരിക്കുന്നു",
+  "driverShouldAriveInNotice": "ഡ്രൈവർ എത്താൻ കണക്കാക്കിയ സമയം",
+  "driverShouldHaveArrivedNotice": "ഡ്രൈവർ ഏത് നിമിഷവും എത്തിയിരിക്കണം",
+  "deleteAccount": "അക്കൗണ്ട് ഇല്ലാതാക്കുക",
+  "deleteAccountNotice": "നിങ്ങളുടെ അക്കൗണ്ട് ഇല്ലാതാക്കാൻ നിങ്ങൾ ഉറപ്പാണോ? 30 ദിവസത്തിനുശേഷം, നിങ്ങളുടെ അക്കൗണ്ട് സ്ഥിരമായി ഇല്ലാതാക്കപ്പെടും. ഈ സമയത്ത്, വീണ്ടും സൈൻ ഇൻ ചെയ്തുകൊണ്ട് നിങ്ങൾക്ക് അക്കൗണ്ട് പുനഃസ്ഥാപിക്കാൻ കഴിയും.",
+  "confirmAndDeleteAccount": "സ്ഥിരീകരിച്ച് അക്കൗണ്ട് ഇല്ലാതാക്കുക",
+  "accountDeleted": "അക്കൗണ്ട് ഇല്ലാതാക്കി",
+  "share_trip_text_locations": "ഞാൻ {pickup} ൽ നിന്ന് {destination} ലേക്ക് പോകുന്നു.",
+  "@share_trip_text_locations": {
+    "placeholders": {
+      "destination": {},
+      "pickup": {}
+    }
+  },
+  "share_trip_text_driver": "എന്റെ ഡ്രൈവറുടെ പേര് {firstName} {lastName} ആണ്, മൊബൈൽ നമ്പർ +{mobileNumber} ആണ്.",
+  "@share_trip_text_driver": {
+    "placeholders": {
+      "firstName": {},
+      "lastName": {},
+      "mobileNumber": {}
+    }
+  },
+  "share_trip_text_rider": "എന്നോടൊപ്പമുള്ള യാത്രക്കാരന്റെ പേര് {firstName} {lastName} ആണ്, മൊബൈൽ നമ്പർ +{mobileNumber} ആണ്.",
+  "@share_trip_text_rider": {
+    "placeholders": {
+      "firstName": {},
+      "lastName": {},
+      "mobileNumber": {}
+    }
+  },
+  "share_trip_started_time": "യാത്ര {startTime} ൽ ആരംഭിച്ചു, യാത്ര ഏകദേശം {duration} മിനിറ്റ് എടുക്കുമെന്നാണ് ഞാൻ പ്രതീക്ഷിക്കുന്നത്",
+  "@share_trip_started_time": {
+    "placeholders": {
+      "startTime": {},
+      "duration": {}
+    }
+  },
+  "share_trip_not_arrived_time": "ഞാൻ ഡ്രൈവറുടെ കാറിൽ കയറിയാൽ യാത്ര ഏകദേശം {duration} മിനിറ്റ് എടുക്കുമെന്നാണ് പ്രതീക്ഷിക്കുന്നത്.",
+  "@share_trip_not_arrived_time": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "sendSOSMessage": "പ്രധാനം: അടിയന്തിര സാഹചര്യത്തിൽ മാത്രം ഈ ഫീച്ചർ ഉപയോഗിക്കുക. ഞങ്ങൾ നിങ്ങൾക്ക് വേണ്ടി അധികാരികളെ ബന്ധപ്പെടും.",
+  "confirmAndSendSOS": "സ്ഥിരീകരിച്ച് SOS അയയ്ക്കുക",
+  "sosSentSuccessfully": "SOS വിജയകരമായി അയച്ചു",
+  "topUpSuccess": "വാലറ്റ് വിജയകരമായി ടോപ്പ് അപ്പ് ചെയ്തു",
+  "cancelNotAllowed": "ഇതിനകം ആരംഭിച്ച യാത്ര റദ്ദാക്കാൻ സാധിക്കില്ല.",
+  "error": "പിശക്",
+  "connectionError": "കണക്ഷൻ പിശക്",
+  "serverError": "സർവർ പിശക്",
+  "addNewLocation": "പുതിയ ലൊക്കേഷൻ ചേർക്കുക",
+  "twoWayTrip": "രണ്ടാരു വഴിയുള്ള യാത്ര",
+  "reportSubmitted": "റിപ്പോർട്ട് സമർപ്പിച്ചു",
+  "reportSubmittedDescription": "നിങ്ങളുടെ റിപ്പോർട്ട് വിജയകരമായി സമർപ്പിച്ചു, ഞങ്ങൾ അത് അവലോകനം ചെയ്യുകയും ആവശ്യമായ നടപടികൾ സ്വീകരിക്കുകയും ചെയ്യും.",
+  "cardNumber": "കാർഡ് നമ്പർ",
+  "cardNumberHint": "കാർഡ് നമ്പർ നൽകുക",
+  "expiryDate": "കാലാവധി തീയതി",
+  "expiryDateHint": "MM/YY",
+  "noFavoriteDrivers": "പ്രിയപ്പെട്ട ഡ്രൈവർമാരില്ല",
+  "noFavoriteDriversDescription": "യാത്രയ്ക്ക് ശേഷം അവരെ റേറ്റ് ചെയ്യുമ്പോൾ നിങ്ങൾക്ക് നിങ്ങളുടെ പ്രിയപ്പെട്ട ഡ്രൈവർമാരെ ഫേവറിറ്റ് ആയി അടയാളപ്പെടുത്താം.",
+  "pickupLocationNotFound": "പിക്ക്-അപ്പ് പോയിന്റ് ആയി GPS ഉപയോഗിച്ച് നിങ്ങളുടെ നിലവിലെ ലൊക്കേഷൻ നിർണ്ണയിക്കാൻ ഞങ്ങൾക്ക് കഴിഞ്ഞില്ല. ദയവായി നിങ്ങളുടെ പിക്ക്-അപ്പ് പോയിന്റ് സ്വമേധയാ നൽകുക.",
+  "dragToSelect": "തിരഞ്ഞെടുക്കാൻ വലിച്ചിടുക",
+  "skip": "ഒഴിവാക്കുക",
+  "openSettings": "ക്രമീകരണങ്ങൾ തുറക്കുക",
+  "locationPermission": "ലൊക്കേഷൻ അനുമതി",
+  "locationPermissionDeniedForeverMessage": "നിങ്ങളുടെ ചുറ്റുമുള്ള ഓർഡറുകൾ സ്വീകരിക്കുന്നതിനും യാത്രക്കാരന് നിങ്ങളുടെ ലൊക്കേഷൻ ട്രാക്ക് ചെയ്യുന്നതിനും ലൊക്കേഷൻ അനുമതി ആവശ്യമാണ്. ഈ അനുമതിയില്ലാതെ നിങ്ങൾക്ക് ഓർഡറുകൾ സ്വീകരിക്കാൻ കഴിയില്ല, നിങ്ങളുടെ നിലവിലെ ലൊക്കേഷൻ ഞങ്ങൾ അറിയുകയും വേണം. നിങ്ങളുടെ ഫോൺ ക്രമീകരണങ്ങളിൽ ഈ അനുമതി മാറ്റാൻ കഴിയും.",
+  "allow": "അനുവദിക്കുക",
+  "driverOnlineTitle": "ഒരു യാത്ര തിരയുന്നു",
+  "driverOfflineTitle": "അഭ്യർത്ഥനകൾ സ്വീകരിക്കാൻ ഓൺലൈനായിരിക്കുക",
+  "payInCash": "പണമായി പേയ്മെന്റ്",
+  "payInCashDescription": "ദയവായി ഡ്രൈവർക്ക് പണമായി പേയ്മെന്റ് തുടരുക. പണം ലഭിച്ചുകഴിഞ്ഞാൽ ഡ്രൈവർ പേയ്മെന്റ് സ്ഥിരീകരിക്കും.",
+  "addToFavoriteDrivers": "പ്രിയപ്പെട്ട ഡ്രൈവർമാരിലേക്ക് ചേർക്കുക",
+  "slideToConfirmArrival": "എത്തിച്ചേരൽ വസ്ഥിരീകരിക്കാൻ സ്ലൈഡ് ചെയ്യുക",
+  "slideToConfirmPickup": "പിക്ക്-അപ്പ് സ്ഥിരീകരിക്കാൻ സ്ലൈഡ് ചെയ്യുക",
+  "slideToConfirmDropoff": "ഡ്രോപ്പ്-ഓഫ് സ്ഥിരീകരിക്കാൻ സ്ലൈഡ് ചെയ്യുക",
+  "noticePickingUpRiderIn": "യാത്രക്കാരനെ എടുക്കുന്നത്:",
+  "noticeRiderNotified": "യാത്രക്കാരനെ അറിയിച്ചു, യാത്രക്കാരനെ എടുത്ത് യാത്ര ആരംഭിക്കുക",
+  "adminPanelOnboardingOneTitle": "മികച്ച സ്യൂട്ടിലേക്ക് സ്വാഗതം",
+  "adminPanelOnboardingOneSubtitle": "നിങ്ങളുടെ Q-കൊമേഴ്സിന്റെ ശക്തി അഴിച്ചുവിടുക",
+  "adminPanelOnboardingTwoTitle": "നിങ്ങളുടെ പ്രവർത്തനങ്ങൾ സുഗമമാക്കുക",
+  "adminPanelOnboardingTwoSubtitle": "ഞങ്ങളുടെ കേന്ദ്രീകൃത സൂപ്പർ പാനൽ ഉപയോഗിച്ച് നിയന്ത്രണം ഏറ്റെടുക്കുക",
+  "rider": "യാത്രക്കാരൻ",
+  "customer": "ഉപഭോക്താവ്",
+  "back": "തിരിച്ച്",
+  "addressHome": "വീട്",
+  "addressWork": "ജോലിസ്ഥലം",
+  "addressPartner": "പങ്കാളി",
+  "addressGym": "ജിം",
+  "addressParent": "മാതാപിതാക്കൾ",
+  "addressCafe": "കഫെ",
+  "addressPark": "പാർക്ക്",
+  "addressOther": "മറ്റുള്ളവ"
+}
